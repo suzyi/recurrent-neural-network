@@ -42,7 +42,7 @@ As for how to implement a RNN in real situation, here we have a list of hands-on
 + Tensorflow based coding guideline for RNN - [easy tensorflow: RNNs](http://www.easy-tensorflow.com/tf-tutorials/recurrent-neural-networks/)
 
 **Slides**
-Lecture given by Fei-Fei Li & Justin Johnson & Serena Yeung - [stanford cs231n slides](http://cs231n.stanford.edu/slides/2019/cs231n_2019_lecture10.pdf)
++ Lecture given by Fei-Fei Li & Justin Johnson & Serena Yeung - [stanford cs231n slides](http://cs231n.stanford.edu/slides/2019/cs231n_2019_lecture10.pdf)
 
 **Literatures**
 + Reservoir Computing for chaotic KS prediction: Pathak, Jaideep, et al. "Model-free prediction of large spatiotemporally chaotic systems from data: A reservoir computing approach." Physical review letters 120.2 (2018): 024102.
