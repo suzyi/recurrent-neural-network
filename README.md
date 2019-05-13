@@ -1,5 +1,8 @@
 # Recurrent Neural Network
-Recurrent Neural Network is used mainly for time series analysis.
+Recurrent Neural Network (RNN) is actually a first-order Hidden Markov Model (HMM)
+$$h_t=f(x_t,h_{t-1};\theta),y_t = g(h_t;\theta)$$
+
+used mainly for time series analysis.
 ## dataset
 Time series:
 + From Google stocks, you can get Tesla Stock price.
