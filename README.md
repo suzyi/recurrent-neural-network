@@ -45,7 +45,7 @@ As for how to implement a RNN in real situation, here we have a list of hands-on
 + Lecture given by Fei-Fei Li & Justin Johnson & Serena Yeung - [stanford cs231n slides](http://cs231n.stanford.edu/slides/2019/cs231n_2019_lecture10.pdf)
 
 **Literatures**
-+ Reservoir Computing for chaotic KS prediction: Pathak, Jaideep, et al. "Model-free prediction of large spatiotemporally chaotic systems from data: A reservoir computing approach." Physical review letters 120.2 (2018): 024102.
-+ Echo States Networks for time series prediction: Jaeger, Herbert, and Harald Haas. "Harnessing nonlinearity: Predicting chaotic systems and saving energy in wireless communication." science 304.5667 (2004): 78-80.
-+ Chapter 10 Sequence Modeling: Recurrent and Recursive Nets: LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "Deep learning." nature 521.7553 (2015): 436.
-+ NIPS Time Series Workshop 2017: Yu, Rose, et al. "Long-term forecasting using tensor-train rnns." arXiv preprint arXiv:1711.00073 (2017).
++ *Reservoir Computing for chaotic KS prediction.* Pathak, Jaideep, et al. "Model-free prediction of large spatiotemporally chaotic systems from data: A reservoir computing approach." Physical review letters 120.2 (2018): 024102.
++ *Echo States Networks for time series prediction.* Jaeger, Herbert, and Harald Haas. "Harnessing nonlinearity: Predicting chaotic systems and saving energy in wireless communication." science 304.5667 (2004): 78-80.
++ *Chapter 10 Sequence Modeling: Recurrent and Recursive Nets.* LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "Deep learning." nature 521.7553 (2015): 436.
++ *NIPS Time Series Workshop 2017.* Yu, Rose, et al. "Long-term forecasting using tensor-train rnns." arXiv preprint arXiv:1711.00073 (2017).
