@@ -29,12 +29,17 @@ As for how to implement a RNN in real situation, here we have a list of hands-on
 + LSTM unit - `tf.contrib.rnn.BasicLSTMCell(hidden_dim)`, `tf.contrib.rnn.LSTMCell(hidden_dim)`, 
 + GRU - `tf.contrib.rnn.GRUCell(hidden_dim)`
 ### RNN for Image Recognition
-+ LSTM for MNIST - [recurrent_network.ipynb](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/3_NeuralNetworks/recurrent_network.ipynb)
+| Date(2019) | Description | Codes |
+|---| ----- | -------- |
+| May 13 | LSTM for MNIST | [recurrent_network.ipynb](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/3_NeuralNetworks/recurrent_network.ipynb) |
 
 ### RNN for Time Series Analysis
-+ reservoir computing for Lorenz system prediction - [Predict-Lorenz-using-Reservoir-Computing-simple-demo.ipynb](https://github.com/suzyi/recurrent-neural-network/blob/master/notebooks/Predict-Lorenz-using-Reservoir-Computing-simple-demo.ipynb)
-+ Autoregressive seq2seq acts as an autoencoder, for two-component system prediction - [seq2seq-sine-cosine-prediction-tensorflow.ipynb](https://github.com/suzyi/recurrent-neural-network/blob/master/notebooks/seq2seq-sine-cosine-prediction-tensorflow.ipynb)
-+ seq2seq for Lorenz system prediction - [seq2seq-Lorenz-prediction-tensorflow-xyz2xyz.ipynb](https://github.com/suzyi/recurrent-neural-network/blob/master/notebooks/seq2seq-Lorenz-prediction-tensorflow-xyz2xyz.ipynb)
+| Date(2019) | Description | Codes |
+|---| ----- | -------- |
+| May 13 | seq2seq for Lorenz system prediction | [seq2seq-Lorenz-prediction-tensorflow-xyz2xyz.ipynb](https://github.com/suzyi/recurrent-neural-network/blob/master/notebooks/seq2seq-Lorenz-prediction-tensorflow-xyz2xyz.ipynb) |
+| May 13 | seq2seq for two-component system prediction | [seq2seq-sine-cosine-prediction-tensorflow.ipynb](https://github.com/suzyi/recurrent-neural-network/blob/master/notebooks/seq2seq-sine-cosine-prediction-tensorflow.ipynb) |
+| May 13 | RC for Lorenz system prediction | [Predict-Lorenz-using-Reservoir-Computing-simple-demo.ipynb](https://github.com/suzyi/recurrent-neural-network/blob/master/notebooks/Predict-Lorenz-using-Reservoir-Computing-simple-demo.ipynb) |
+
 
 ## 4 - References
 **Websites**
