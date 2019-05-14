@@ -24,10 +24,13 @@ RNNs are mainly used in time series analysis, automatic image captioning, sentim
 ## 3 - How to Implement a RNN?
 As for how to implement a RNN in real situation, here we have a list of hands-on examples, based on tensorflow.
 ### Basics
-+ Instead of eager, define a simple RNN unit manually - [define_lstm_unit_from_scratch_tensorflow.ipynb](https://github.com/suzyi/recurrent-neural-network/blob/master/notebooks/define_lstm_unit_from_scratch_tensorflow.ipynb)
 + Vanilla unit - `tf.contrib.rnn.BasicRNNCell(hidden_dim)`
 + LSTM unit - `tf.contrib.rnn.BasicLSTMCell(hidden_dim)`, `tf.contrib.rnn.LSTMCell(hidden_dim)`, 
 + GRU - `tf.contrib.rnn.GRUCell(hidden_dim)`
+| Date(2019) | Description | Codes |
+|---| ----- | -------- |
+| May 13 | Instead of eager API, define a simple RNN unit on your own | [define_lstm_unit_from_scratch_tensorflow.ipynb](https://github.com/suzyi/recurrent-neural-network/blob/master/notebooks/define_lstm_unit_from_scratch_tensorflow.ipynb) |
+
 ### RNN for Image Recognition
 | Date(2019) | Description | Codes |
 |---| ----- | -------- |
