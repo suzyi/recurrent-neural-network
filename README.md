@@ -16,7 +16,7 @@ h_t&=f(W_{hx}x_t+W_{hh}h_{t-1}+b_{h}),\cr
 x_{t+1}&= W_{xh}h_t+b_{x}.
 \end{align}
 ```
-RNNs have many variants according to various RNN cells, including Vanilla RNN (or an Elman RNN after Prof. Jeffrey Elman, the most simple kind), Long Short Term Memory (LSTM, 1997), Bidirectional LSTM, Gated Recurrent Units (GRU, 2014), autoregressive seq2seq, Reservoir Computing or Echo State Network (RC or ESN) and etc.
+RNNs have many variants according to various RNN cells, including Vanilla RNN (or an Elman RNN after Prof. Jeffrey Elman, the most simple kind), Long Short Term Memory (LSTM, 1997), Bidirectional LSTM, Gated Recurrent Units (GRU, 2014), Encoder-Decoder sequence-to-sequence architecture, Reservoir Computing or Echo State Network (RC or ESN) and etc.
 
 ## 2 - Application of RNN
 RNNs are mainly used in time series analysis, automatic image captioning, sentiment classification, machine traslation, chatbot and etc.
