@@ -23,6 +23,8 @@ RNNs are mainly used in time series analysis, automatic image captioning, sentim
 
 ## 3 - How to Implement a RNN?
 As for how to implement a RNN in real situation, here we have a list of hands-on examples, based on tensorflow.
+### Tutorials
++ [tensorflow-seq2seq-tutorials](https://github.com/ematvey/tensorflow-seq2seq-tutorials).
 ### Basics
 + Vanilla unit - `tf.contrib.rnn.BasicRNNCell(hidden_dim)`
 + LSTM unit - `tf.contrib.rnn.BasicLSTMCell(hidden_dim)`, `tf.contrib.rnn.LSTMCell(hidden_dim)`, 
