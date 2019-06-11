@@ -32,6 +32,7 @@ As for how to implement a RNN in real situation, here we have a list of hands-on
 
 | Date(2019) | Description | Codes |
 |---| ----- | -------- |
+| Jun 11 | Mathematics of LSTM and Seq2seq | [intro-to-seq2seq.ipynb](https://github.com/suzyi/recurrent-neural-network/blob/master/notebooks/intro-to-seq2seq.ipynb)|
 | May 13 | Instead of eager API, define a simple RNN unit on your own | [define_lstm_unit_from_scratch_tensorflow.ipynb](https://github.com/suzyi/recurrent-neural-network/blob/master/notebooks/define_lstm_unit_from_scratch_tensorflow.ipynb) |
 
 ### RNN for Image Recognition
