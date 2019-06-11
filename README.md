@@ -30,19 +30,13 @@ As for how to implement a RNN in real situation, here we have a list of hands-on
 + LSTM unit - `tf.contrib.rnn.BasicLSTMCell(hidden_dim)`, `tf.contrib.rnn.LSTMCell(hidden_dim)`, 
 + GRU - `tf.contrib.rnn.GRUCell(hidden_dim)`
 
+### Tutorials and Applications
 | Date(2019) | Description | Codes |
 |---| ----- | -------- |
+| Jun 11 |  | [build-seq2seq-model-on-tensorflow-for-beginner.ipynb](https://github.com/suzyi/recurrent-neural-network/blob/master/notebooks/build-seq2seq-model-on-tensorflow-for-beginner.ipynb) |
 | Jun 11 | Mathematics of LSTM and Seq2seq | [intro-to-seq2seq.ipynb](https://github.com/suzyi/recurrent-neural-network/blob/master/notebooks/intro-to-seq2seq.ipynb)|
-| May 13 | Instead of eager API, define a simple RNN unit on your own | [define_lstm_unit_from_scratch_tensorflow.ipynb](https://github.com/suzyi/recurrent-neural-network/blob/master/notebooks/define_lstm_unit_from_scratch_tensorflow.ipynb) |
-
-### RNN for Image Recognition
-| Date(2019) | Description | Codes |
-|---| ----- | -------- |
 | May 13 | LSTM for MNIST | [recurrent_network.ipynb](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/3_NeuralNetworks/recurrent_network.ipynb) |
-
-### RNN for Time Series Analysis
-| Date(2019) | Description | Codes |
-|---| ----- | -------- |
+| May 13 | Instead of eager API, define a simple RNN unit on your own | [define_lstm_unit_from_scratch_tensorflow.ipynb](https://github.com/suzyi/recurrent-neural-network/blob/master/notebooks/define_lstm_unit_from_scratch_tensorflow.ipynb) |
 | May 13 | seq2seq for Lorenz system prediction | [seq2seq-Lorenz-prediction-tensorflow-xyz2xyz.ipynb](https://github.com/suzyi/recurrent-neural-network/blob/master/notebooks/seq2seq-Lorenz-prediction-tensorflow-xyz2xyz.ipynb) |
 | May 13 | seq2seq for two-component system prediction | [seq2seq-sine-cosine-prediction-tensorflow.ipynb](https://github.com/suzyi/recurrent-neural-network/blob/master/notebooks/seq2seq-sine-cosine-prediction-tensorflow.ipynb) |
 | May 13 | RC for Lorenz system prediction | [Predict-Lorenz-using-Reservoir-Computing-simple-demo.ipynb](https://github.com/suzyi/recurrent-neural-network/blob/master/notebooks/Predict-Lorenz-using-Reservoir-Computing-simple-demo.ipynb) |
