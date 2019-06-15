@@ -34,7 +34,7 @@ As for how to implement a RNN in real situation, here we have a list of hands-on
 | Date | Codes |
 |---| -------- |
 | Jun 15, 2019 | [seq2seq-Lorenz-prediction-tensorflow-xyz2xyz-v2.ipynb](https://github.com/suzyi/recurrent-neural-network/blob/master/notebooks/seq2seq-Lorenz-prediction-tensorflow-xyz2xyz-v2.ipynb) |
-| Jun 12, 2019 | [wildml](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/) |
+| Jun 12, 2019 | [wildml-define-rnn-using-numpy](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/) |
 | Jun 11, 2019 | [copytask-seq2seq-on-tensorflow-for-beginner.ipynb](https://github.com/suzyi/recurrent-neural-network/blob/master/notebooks/copytask-seq2seq-on-tensorflow-for-beginner.ipynb) |
 | Jun 11, 2019 | [intro-to-seq2seq.ipynb](https://github.com/suzyi/recurrent-neural-network/blob/master/notebooks/intro-to-seq2seq.ipynb)|
 | May 13, 2019 | [rnn-mnist.ipynb](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/3_NeuralNetworks/recurrent_network.ipynb) |
