@@ -37,6 +37,8 @@ As for how to implement a RNN in real situation, here we have a list of hands-on
 | Jun 12, 2019 | [wildml-define-rnn-using-numpy](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/) |
 | Jun 11, 2019 | [copytask-seq2seq-on-tensorflow-for-beginner.ipynb](https://github.com/suzyi/recurrent-neural-network/blob/master/notebooks/copytask-seq2seq-on-tensorflow-for-beginner.ipynb) |
 | Jun 11, 2019 | [intro-to-seq2seq.ipynb](https://github.com/suzyi/recurrent-neural-network/blob/master/notebooks/intro-to-seq2seq.ipynb)|
+| May 15, 2019 | [Predict-KS-via-Reservoir-Computing-all2all.ipynb](https://github.com/suzyi/recurrent-neural-network/blob/master/notebooks/Predict-KS-via-Reservoir-Computing-all2all.ipynb)|
+| May 15, 2019 | [lstm-Lorenz-prediction-xyz2xyz-batch-training-on-tensorflow.ipynb](https://github.com/suzyi/recurrent-neural-network/blob/master/notebooks/lstm-Lorenz-prediction-xyz2xyz-batch-training-on-tensorflow.ipynb) |
 | May 13, 2019 | [rnn-mnist.ipynb](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/3_NeuralNetworks/recurrent_network.ipynb) |
 | May 13, 2019 | [define_lstm_unit_from_scratch_tensorflow.ipynb](https://github.com/suzyi/recurrent-neural-network/blob/master/notebooks/define_lstm_unit_from_scratch_tensorflow.ipynb) |
 | May 13, 2019 | [seq2seq-sine-cosine-prediction-tensorflow.ipynb](https://github.com/suzyi/recurrent-neural-network/blob/master/notebooks/seq2seq-sine-cosine-prediction-tensorflow.ipynb) |
