@@ -34,7 +34,7 @@ As for how to implement a RNN in real situation, here we have a list of hands-on
 | Date | Codes | Data |
 |---| -------- |-------- |
 | Jun 30, 2019 | [Attention-based-Seq2seq-Eng2Jap-Keras.ipynb](https://github.com/suzyi/recurrent-neural-network/blob/master/notebooks/Attention-based-Seq2seq-Eng2Jap-Keras.ipynb) | [eng2jap.csv](https://github.com/suzyi/recurrent-neural-network/tree/master/data/eng2jap.csv) |
-| Jun 24, 2019 | [English2French-keras-tf-seq2seq.ipynb](https://github.com/suzyi/recurrent-neural-network/blob/master/notebooks/English2French-keras-tf-seq2seq.ipynb) | [fra.txt](https://github.com/suzyi/recurrent-neural-network/tree/master/data/fra.txt) |
+| Jun 24, 2019 | [English2French-keras-tf-seq2seq-tensorboard.ipynb](https://github.com/suzyi/recurrent-neural-network/blob/master/notebooks/English2French-keras-tf-seq2seq-tensorboard.ipynb) | [fra.txt](https://github.com/suzyi/recurrent-neural-network/tree/master/data/fra.txt) |
 | Jun 16, 2019 | [seq2seq-vs-GPR-Lorenz-prediction-tensorflow-xyz2xyz.ipynb](https://github.com/suzyi/recurrent-neural-network/blob/master/notebooks/seq2seq-vs-GPR-Lorenz-prediction-tensorflow-xyz2xyz.ipynb) | [Lorenz.mat](https://github.com/suzyi/recurrent-neural-network/tree/master/datahttps://github.com/suzyi/recurrent-neural-network/tree/master/data/Lorenz.mat) |
 | Jun 12, 2019 | [wildml-define-rnn-using-numpy](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/) | |
 | Jun 11, 2019 | [copytask-seq2seq-on-tensorflow-for-beginner.ipynb](https://github.com/suzyi/recurrent-neural-network/blob/master/notebooks/copytask-seq2seq-on-tensorflow-for-beginner.ipynb) | |
