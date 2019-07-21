@@ -33,6 +33,7 @@ As for how to implement a RNN in real situation, here we have a list of hands-on
 ### Tutorials and Applications
 | Date | Codes | Data |
 |---| -------- |-------- |
+| Jul 21, 2019 | [KdV-attention-GRU-seq2seq-single-model.py](https://github.com/suzyi/recurrent-neural-network/blob/master/python/KdV-attention-GRU-seq2seq-single-model.py) | [twoSolitonKdV.mat](https://github.com/suzyi/recurrent-neural-network/blob/master/python/twoSolitonKdV.mat) |
 | Jul 5, 2019 | [seq2seq-tf-time-series-kaggle-web-traffic-prediction-1st place solution](https://github.com/Arturus/kaggle-web-traffic/blob/master/how_it_works.md) | |
 | Jun 30, 2019 | [Attention-based-Seq2seq-Eng2Jap-Keras.ipynb](https://github.com/suzyi/recurrent-neural-network/blob/master/notebooks/Attention-based-Seq2seq-Eng2Jap-Keras.ipynb) | [eng2jap.csv](https://github.com/suzyi/recurrent-neural-network/tree/master/data/eng2jap.csv) |
 | Jun 24, 2019 | [English2French-keras-tf-seq2seq-tensorboard.ipynb](https://github.com/suzyi/recurrent-neural-network/blob/master/notebooks/English2French-keras-tf-seq2seq-tensorboard.ipynb) | [fra.txt](https://github.com/suzyi/recurrent-neural-network/tree/master/data/fra.txt) |
